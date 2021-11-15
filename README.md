@@ -11,7 +11,7 @@ The second (b) version of Scratch Profiler v3.
   - `/users/:user/` redirects to `/:user/`
 - Amazing mobile support
 
-🔗 http://scratchprofiler-b.vercel.app/
+🔗 http://beta.scratchprofiler.cf
 
 **:gear: SPv3b is still in development. Any contributions are welcome!**
 
