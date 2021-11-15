@@ -29,7 +29,7 @@ npm install
 npm run dev
 ```
 
-Visit https://localhost:5000.
+Visit https://localhost:3000.
 
 ## License
 
