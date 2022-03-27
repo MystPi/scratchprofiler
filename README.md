@@ -8,8 +8,8 @@ Scratch Profiler connects the Scratch "multiverse" by providing links to service
 ## Run Locally
 Clone the repo.
 ```bash
-git clone https://github.com/MystPi/scratchprofiler-v3b/
-cd scratchprofiler-v3b
+git clone https://github.com/MystPi/scratchprofiler/
+cd scratchprofiler
 ```
 
 Install the dependencies and run the project.
