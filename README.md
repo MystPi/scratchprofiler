@@ -1,19 +1,9 @@
-# Scratch Profiler v3b
+# Scratch Profiler
+Scratch Profiler connects the Scratch "multiverse" by providing links to services like Ocular, Postpercent, ScratchStats, and more.
 
-The second (b) version of Scratch Profiler v3.
+🔗 http://scratchprofiler.vercel.app
 
-> SPv3b will probably take over https://scratchprofiler.cf
-
-**What's new?**
-- Complete UI redesign
-- TailwindCSS and SvelteKit
-- Routes like `/:user/` and `/users/:user/`
-  - `/users/:user/` redirects to `/:user/`
-- Amazing mobile support
-
-🔗 http://beta.scratchprofiler.cf
-
-**:gear: SPv3b is still in development. Any contributions are welcome!**
+**:gear: Scratch Profiler is still in development. Any contributions are welcome!**
 
 ## Run Locally
 Clone the repo.
